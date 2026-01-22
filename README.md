@@ -28,7 +28,7 @@ Image encryption is performed by modifying pixel RGB values using a key value. T
 
 Place input.png in the folder
 
-Run: python image_encrypt.py
+Run: python encrypt.py
 
 Choose encrypt or decrypt
 
